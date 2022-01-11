@@ -11,9 +11,9 @@
 	
 	<bean id="ds" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
 	<property name="driverClassName" value="com.mysql.jdbc.Driver"></property>
-	<property name="url" value="https://github.com/JJIONY-Y/lets-git-it.git"></property>
-	<property name="username" value="JJIONY-Y"></property>
-	<property name="password" value="wl940217*"></property>
+	<property name="url" value=""></property>
+	<property name="username" value=""></property>
+	<property name="password" value=""></property>
 	</bean>	
 	
 	<bean id="sqlSessionFactory" class="org.mybatis.spirng.SqlSessionFactoryBean">
